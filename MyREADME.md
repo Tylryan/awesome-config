@@ -1,5 +1,6 @@
 
 # Go to this website and follow the directions.
-https://github.com/lcpz/awesome-copycats
+Run install.sh.
 
-# Copy my Config. Changes already done.
+# Note
+You might need to change some stuff in the rc.lua and the THEME folder to fit your needs.The changes you make will probably be very minor though.
