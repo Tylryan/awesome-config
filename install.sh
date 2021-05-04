@@ -1,4 +1,8 @@
+#!/usr/bin/bash
 
+
+# Go to your home directory.
+cd ~/
 # Clone the Copy Cats repository. I would do this in your home directory.
 git clone --recursive https://github.com/lcpz/awesome-copycats.git
 
